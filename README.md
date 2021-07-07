@@ -1,9 +1,7 @@
 # TensorFlow-Examples-and-Tutorials
-TensorFlow Examples and Tutorials 
 
-TensorFlow Examples and Tutorials
-Tutorial index
-0 - Prerequisite
+## Tutorial index
+* 0 - Prerequisite
 • Introduction to Machine Learning.
 • Introduction to MNIST Dataset.
 1 - Introduction
